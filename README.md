@@ -1,1 +1,1 @@
-# YOLO: this is my yolo implementation
+# YOLO: My yolo implementation
